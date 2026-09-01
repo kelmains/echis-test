@@ -97,4 +97,4 @@ top-level directory under `apps/` and `infra/` is intentionally
 self-contained so it can be split into its own repository later with
 minimal history rewriting, if/when team scale demands it.
 
-(Git test- please ignore)
+(Git test- please ignore this comment)
